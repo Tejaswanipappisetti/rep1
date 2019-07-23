@@ -1,0 +1,7 @@
+
+node{
+    stage('deplo'){
+        git 'https://github.com/Tejaswanipappisetti/rep1.git'
+    }
+}
+
